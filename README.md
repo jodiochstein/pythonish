@@ -1,0 +1,2 @@
+# pythonish
+learning python
