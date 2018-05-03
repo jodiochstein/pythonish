@@ -1,9 +1,10 @@
 #save a new file as "greeting.py"
 #this is a function definintion
-def print_greeting(name):
+def	print_greeting(name):
 	greeting='Hello,'+name+'!'
 	print (greeting)
 #input is a built-in function that takes input from a user's terminal
 #use raw_input if you use Python2 - MAC
-retrieved_name=input("Please enter your name") print_greeting(retrieved_name)
+retrieved_name=input("Please enter your name") 
+print_greeting(retrieved_name)
 print("Script complete")
